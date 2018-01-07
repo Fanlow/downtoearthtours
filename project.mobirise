@@ -983,7 +983,7 @@
                 "itemPrice": "$80",
                 "oldPriceValue": "$196",
                 "sale": "-50%",
-                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amount=85.00&item_name=Melia+Braco+Village&currency_code=USD\" class=\"btn btn-secondary display-7 note-editable\">Add to Cart</a>",
+                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amount=85.00&item_name=Melia+Braco+Village&currency_code=USD\" class=\"btn btn-secondary display-7 note-editable note-air-editor\">Add to Cart</a>",
                 "image": "@PROJECT_PATH@/assets/images/melia%20braco-1280x852.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/melia-braco-1280x852-800x532.jpg",
                 "customStyle5": "display-5",
