@@ -6755,7 +6755,7 @@
                 "itemPrice": "$130",
                 "oldPriceValue": "$52",
                 "sale": "-50%",
-                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary display-7 note-editable\">Book now!</a>",
+                "button": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-secondary display-7 note-editable note-air-editor\">Book now!</a>",
                 "image": "@PROJECT_PATH@/assets/images/mountain%20valley%20rafting2-2000x1336.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mountain-valley-rafting2-2000x1336-800x534.jpg",
                 "customStyle5": "display-5",
